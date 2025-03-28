@@ -15,8 +15,7 @@ WordSolo 是一款基于网页的智能单词听写练习工具，支持从文�
 ## 使用说明
 
 ### 快速开始
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/yourusername/WordSolo.git
+1. 本地使用：
+   直接复制源代码用Edge打开
 2.在线使用：
-Web:https://listen.borchain.asia
+   Web:https://listen.borchain.asia
