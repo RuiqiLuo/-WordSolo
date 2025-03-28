@@ -17,5 +17,6 @@ WordSolo 是一款基于网页的智能单词听写练习工具，支持从文�
 ### 快速开始
 1. 本地使用：
    直接复制源代码用Edge打开
+   
 2.在线使用：
    Web:https://listen.borchain.asia
